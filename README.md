@@ -35,3 +35,14 @@ The final objective is to turn raw e-commerce data into actionable business insi
 - Sessions and revenue showed a strong positive correlation (r = 0.791, p < 0.0001).
 - Registered users showed an even stronger correlation with revenue (r = 0.955, p < 0.0001).
 - Registered and anonymous users showed no statistically significant difference in revenue per session (Mann–Whitney U = 3619, p = 0.2201).
+
+## Analytical Approach
+
+The analysis was performed in several stages:
+
+1. **Data preparation** — data cleaning, validation, type conversion, and handling missing values.
+2. **Exploratory analysis** — revenue, traffic, customers, acquisition channels, geography, devices, and product categories.
+3. **SQL analysis** — analytical queries, aggregations, joins, and business-oriented metrics.
+4. **Python analysis** — EDA, correlation analysis, statistical testing, and data validation.
+5. **Tableau visualization** — interactive dashboards for exploring key business dimensions and performance trends.
+6. **Business interpretation** — translating analytical findings into actionable recommendations and identifying data-quality risks.
